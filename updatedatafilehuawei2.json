@@ -1,15 +1,15 @@
 {
-  "latestVersion": "1.0.9",
-  "latestVersionCode": "10",
-  "url": "https://github.com/thatapps/EasyTube/releases/download/easytube1.0.9/easytube.apk",
+  "latestVersion": "1.1.0",
+  "latestVersionCode": "11",
+  "url": "https://github.com/thatapps/EasyTube/releases/download/easytube1.1.0/easytube.apk",
   "releaseNotes": [
-    "- Version 1.0.9 Important Update",
+    "- Version 1.1.0 Important Update",
     "- Video Loading Bug Fixed",
     "- App Speed Improved",
     "- Search Improved",
-    "- Comment Issue Fixed",
     "- Major Bugs Fixed",
     "- Share This App And Support Us",
+    "- Many More Features Coming Soon",
     "- Thanks"
   ]
 }
