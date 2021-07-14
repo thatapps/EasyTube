@@ -1,14 +1,15 @@
 {
-  "latestVersion": "1.1.2",
-  "latestVersionCode": "12",
-  "url": "https://github.com/thatapps/EasyTube/releases/download/easytube1.1.2/easytube.apk",
+  "latestVersion": "1.1.3",
+  "latestVersionCode": "13",
+  "url": "https://github.com/thatapps/EasyTube/releases/download/easytube1.1.3/easytube.apk",
   "releaseNotes": [
-    "- Version 1.1.2 Important Update",
+    "- Version 1.1.3 Big Update",
     "- Video And Audio Download Speed Improved",
-    "- Video Play Faster",
-    "- Downloads Option Added In Menu",
+    "- All New Options In Settings",
+    "- Option Added For 2K And 4K Videos Enable In Settings",
+    "- Improved Comments And Related Video",
     "- Major Bugs Fixed",
-    "- For Any Bug Report Contact Us",
+    "- For Any Bug Reports Contact Us",
     "- Share This App And Support Us",
     "- Thanks"
   ]
